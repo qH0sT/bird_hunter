@@ -1,0 +1,9 @@
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\bin\Debug\KusAvcisi.exe.config
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\bin\Debug\KusAvcisi.exe
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\bin\Debug\KusAvcisi.pdb
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.Form1.resources
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.Properties.Resources.resources
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.csproj.GenerateResource.Cache
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.exe
+c:\users\harun\documents\visual studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.pdb
+C:\Users\Harun\Documents\Visual Studio 2015\Projects\KusAvcisi\KusAvcisi\obj\Debug\KusAvcisi.csprojResolveAssemblyReference.cache
